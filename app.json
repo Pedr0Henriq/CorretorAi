@@ -1,24 +1,24 @@
 {
   "expo": {
-    "name": "redacao",
-    "slug": "redacao",
+    "name": "corretorAi",
+    "slug": "corretorAi",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/corretor.png",
     "scheme": "redacao",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/images/splash-icon.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "image": "./assets/images/corretor.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#dfd7f8"
     },
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "foregroundImage": "./assets/images/corretor.png",
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
